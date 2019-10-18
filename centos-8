@@ -17,12 +17,12 @@ IBM Z
 <strong>Content Distribution</strong><br>
 Red Hat Enterprise Linux 8 has two modes of Content distribution and will only need two repositories enabled.
 
-BaseOS repository ñ The BaseOS repository provides the underlying core OS content in the form of traditional RPM packages. BaseOS components have a life cycle identical to that of content in previous Red Hat Enterprise Linux releases.
-AppStream repository ñ The Application Stream repository provides all the applications you might want to run in a given userspace. Other software that has special licensing are available on a Supplemental repository.
+BaseOS repository ‚Äì The BaseOS repository provides the underlying core OS content in the form of traditional RPM packages. BaseOS components have a life cycle identical to that of content in previous Red Hat Enterprise Linux releases.
+AppStream repository ‚Äì The Application Stream repository provides all the applications you might want to run in a given userspace. Other software that has special licensing are available on a Supplemental repository.
 What is AppStream?
 The AppStream allows you to install additional versions of software on independent life cycles and keep your operating system up-to-date while having the right version of an application that suits your use case. Note that no two streams can be installed at the same time into the same userspace.
 
-Application Streams are typically named according to the version of software it distributes e.g. mongodb:3.4 or mongodb:3.6, but may also use names such as ìlatestî and ìstableî and ìlatestì.
+Application Streams are typically named according to the version of software it distributes e.g. mongodb:3.4 or mongodb:3.6, but may also use names such as ‚Äúlatest‚Äù and ‚Äústable‚Äù and ‚Äúlatest‚Äú.
 
 <strong>Desktop Environment</strong><br>
 RHEL default Desktop Environment is GNOME. The GNOME Project is supported by the GNOME Foundation. A version of Gnome shipped in RHEL 8 is version 3.28 which has automatic downloading of operating systems in Boxes. Other new features include:
@@ -55,7 +55,7 @@ Red Hat Enterprise Linux 8 includes Application Streams of multiple versions of 
 Below is a list of components available on Red Hat Enterprise Linux 8.
 
 Python: The default Python implementation in RHEL 8 is Python 3.6.
-Database Servers: RHEL 8 provide the following databases ñ  MariaDB 10.3, MySQL 8.0, PostgreSQL 9.6, PostgreSQL 10.
+Database Servers: RHEL 8 provide the following databases ‚Äì  MariaDB 10.3, MySQL 8.0, PostgreSQL 9.6, PostgreSQL 10.
 Redis: The redis version available is 4.0
 Web Servers: httpd 2.4 & Nginx 1.14*
 OpenLDAP replaced by 369 LDAP Server
