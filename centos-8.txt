@@ -1,0 +1,77 @@
+# Centos 8
+Red Hat Enterprise Linux 8 (RHEL 8) is now available for Production use with lots of developer-friendly capabilities. RHEL 8 official release by Red Hat Inc, the company behind Development of Red Hat Enterprise Linux (RHEL) 8 was announced on May 7, 2019.
+
+<strong>What is new in Red Hat Enterprise Linux 8 (RHEL 8 )?</strong><br>
+Some of the new features of RHEL 8 are as described below.
+
+<strong>Kernel & OS</strong> <br>
+Red Hat Enterprise Linux 8.0 is based on Fedora 28 and upstream kernel 4.18. This provides users with a secure, stable and consistent foundation across hybrid cloud and Data Center deployments with tools needed to support all levels of workloads.
+
+<strong>Supported CPU Architectures are:</strong><br>
+
+AMD and Intel 64-bit architectures
+The 64-bit ARM architecture
+IBM Power Systems, Little Endian
+IBM Z
+
+<strong>Content Distribution</strong><br>
+Red Hat Enterprise Linux 8 has two modes of Content distribution and will only need two repositories enabled.
+
+BaseOS repository – The BaseOS repository provides the underlying core OS content in the form of traditional RPM packages. BaseOS components have a life cycle identical to that of content in previous Red Hat Enterprise Linux releases.
+AppStream repository – The Application Stream repository provides all the applications you might want to run in a given userspace. Other software that has special licensing are available on a Supplemental repository.
+What is AppStream?
+The AppStream allows you to install additional versions of software on independent life cycles and keep your operating system up-to-date while having the right version of an application that suits your use case. Note that no two streams can be installed at the same time into the same userspace.
+
+Application Streams are typically named according to the version of software it distributes e.g. mongodb:3.4 or mongodb:3.6, but may also use names such as “latest” and “stable” and “latest“.
+
+<strong>Desktop Environment</strong><br>
+RHEL default Desktop Environment is GNOME. The GNOME Project is supported by the GNOME Foundation. A version of Gnome shipped in RHEL 8 is version 3.28 which has automatic downloading of operating systems in Boxes. Other new features include:
+
+New on-screen keyboard
+New GNOME Boxes features
+Extended devices support, most significantly integration for the Thunderbolt 3 interface
+Improvements for GNOME Software, dconf-editor and GNOME Terminal
+GNOME Software utility, which enables you to install and update applications and gnome-shell extensions.
+GNOME Display Manager (GDM) use Wayland as their default display server instead of the X.org server
+Features of Wayland display server
+Stronger security model
+Improved multi-monitor handling
+Improved user interface (UI) scaling
+The desktop can control window handling directly.
+Read more about Gnome 3.28 features in the release notes.
+
+<strong>Software Management</strong><br>
+RHEL 8 YUM package manager is now based on the DNF technology and it provides support for modular content, increased performance, and a well-designed stable API for integration with tooling. The version of RPM is 4.14.2 and it validates the whole package contents before it starts the installation.
+
+YUM version available in RHEL 8 is v4.0.4. YUM based on DNF has the following advantages over the previous YUM v3 used on RHEL 7:
+
+Increased performance
+Support for modular content
+Well-designed stable API for integration with tooling
+
+<strong>Web servers, Web Tools, Compilers, Languages & Databases</strong><br>
+Red Hat Enterprise Linux 8 includes Application Streams of multiple versions of databases, languages, compilers, and other tools available for your use.
+
+Below is a list of components available on Red Hat Enterprise Linux 8.
+
+Python: The default Python implementation in RHEL 8 is Python 3.6.
+Database Servers: RHEL 8 provide the following databases –  MariaDB 10.3, MySQL 8.0, PostgreSQL 9.6, PostgreSQL 10.
+Redis: The redis version available is 4.0
+Web Servers: httpd 2.4 & Nginx 1.14*
+OpenLDAP replaced by 369 LDAP Server
+Varnish Cache 6.0*
+Git 2.17
+Maven 3.5
+Perl 5.26* and 5.24
+PHP 7.2* and 7.1*
+Ruby 2.5*
+Node.js 10* and 8*
+Python 3.6* and 2.7*
+Rust Toolset 1.26*
+Scala 2.10
+Go Toolset 1.10*
+GCC System compiler 8.1
+.NET Core 2.1*
+Java 8 and Java 11
+Pacemaker cluster resource manager 2.0.0. The pcs configuration system fully supports Corosync 3, knet, and node names.
+glibc libraries based on version 2.28
