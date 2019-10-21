@@ -95,7 +95,7 @@ Remark-:<br>
 	* Using command setfacl/getfacl<br>
 <br>==> G. Managing SELinux Security<br>
 	* Managing SELinux Policy<br>
-	* New Selinux Features in RHEL 7<br>
+	* New Selinux Features in RHEL 8<br>
 	* Determines Booleans for services<br>
 <br>==> H. Centralized Authentication Configuration<br>
 	* Configure systems to use central identity management services<br>
@@ -159,7 +159,7 @@ Remark-:<br>
 <br>==>L. Overview of Linux Containers <br>
 	* Overview the capability of Linux contianers,<br>
 	* Dockers<br>
-	* & Other related to technologies in RHEL 7.<br>
+	* & Other related to technologies in RHEL 8.<br>
 
 ---
 <strong><u>Referece <br> </u></strong>
