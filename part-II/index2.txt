@@ -1,0 +1,56 @@
+Part-2
+==> A. Automate installation with kickstart
+* Remote installation using VNC
+* Automate installation through kick start
+Remark-:
+
+==> B. Use Regular Expression With grep
+* Write reqular expressions with grep
+* Quickly isolate & locate content with in text file
+Remark-:
+
+==> C. Create & Edit Text files using vi/vim
+* introduction the vim text editor
+* Open, edit & save Text files
+
+==> D. Job sheduling
+* using cron & Anacron
+* using at specific time at once
+
+==> E. Process Management
+* using top, ps commands
+* Terminate process using kill command
+
+==> F. Control Access to files with Access control List (ACL)
+* Managing fil
+*Security using POSIX ACL
+* Using command setfacl/getfacl
+
+==> G. Managing SELinux Security
+* Managing SELinux Policy
+* New Selinux Features in RHEL 8
+* Determines Booleans for services
+
+==> H. Centralized Authentication Configuration
+* Configure systems to use central identity management services
+
+==> I. Disk Management
+* Add Disk to system
+* Create File system
+* Create Partition
+* Using GUI Tools
+
+==> J. Manage Logical volume manager (LVM)
+* Using command line
+* Using GUI tools
+
+==> K. Access Network Attached Storage with NFS
+* Access secure NFS share
+
+==> L. Access Network Storage with SMB
+* USE Autofs & command line tool to mount & umount smb shares
+
+==> M. Control Troubleshoot RHEL boot process
+*
+==> N. Limit Network Communication with firewall
+* configure a basic Firewall.

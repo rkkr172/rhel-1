@@ -1,0 +1,54 @@
+==>A. Control Services & Daemons
+* Review how to manage services and
+* Boot up process using systemctl
+
+==>B. Manage IPv6 Networking
+* IPv6 addressing
+* Troubleshooting
+
+==>C. Configure Link Aggregation & Bridging
+* Configure & troublshoot advance network interface funcionality
+* Configure bonding & teaming
+* Configure local software bridge
+
+==>D. Control Network Port Security
+* Allow or deny Network service using Advanced SELinux & firewalld filtering
+
+==>E. Manage DNS for servers
+* set & verify correct DNS records for systems
+* Configure secure DNS caching
+
+==>F. Configure E-mail Delivery
+* Understanding mailing system components MTA,MDA & MUA
+* Configure Postfix mail server
+* Configure mail relay
+
+==>G. Provide Block Based Storage.
+* Configure iSCSI target
+* Configure iSCSI Initiator to connect with target
+
+==>H. Provide File Based Storage
+* Configure secure SMB to share directory for windows clients
+* Configure secure SMB to export directory for particular system & user
+
+==>I. Configure MariaDB databases.
+* Install & Manage MariaDB
+* Provide a MariaDB SQL access to programs & Database Administrators
+
+==>J. Provide Apache HTTPD Web Service.
+* Install & configure Apache web server
+* Perform basic web hosting
+* Perform virtual hosting
+* Perform password based hosting
+* Perform secure web hosting
+
+==>K. Write Bash script.
+* Write simple shell script using bash
+* Bash conditional & control structures
+* configure shell environment
+* Customize bash start up, use environmental variables,Bash aliases, and func
+
+==>L. Overview of Linux Containers
+* Overview the capability of Linux contianers,
+* Dockers
+* & Other related to technologies in RHEL 8.

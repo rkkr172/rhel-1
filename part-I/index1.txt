@@ -1,0 +1,70 @@
+Part-1
+==> A. Overview of Linux
+* What is kernal & Its function
+* Linux release & vendors
+* Fedora Project
+* Red Hat Enterprise Linux (RHEL)
+Remarks-:
+==> B. RHEL instllation
+* Installation prerequisites
+* Perform Standard installation
+* Linux File system Structure.
+Remark-:
+
+==> C. Basic Command
+* What is terminal & its types
+* Linux shell
+* Managing files from command line
+* Getting help
+Remark-:
+
+==> D. Managing Local Users & groups
+* Managing Local Users & groups with CLI
+* Managing Local Users & groups with GUI
+* Creating users & group by Script
+* Managing Password Policy
+Remark-:
+
+==> E. Linux File System Permission
+* Basic Files system permission
+* Determine default permission using UMASK
+* Special Permission
+Remark-:
+
+==> F. Monitor & Manage Linux Process
+* View real-time data about processes
+* Get a listing or processes running on the system
+* end the running of a process.
+* Display a list of current jobs running in the background.
+Remark-:
+
+==> G. Control Services & Daemons
+* control & monitor network services and Daemon using systemd
+Remark-:
+
+==> H. Configure and secure OpenSSH Service
+* secure command inse access on the remote pc
+* Key based ssh
+* Secure copy
+Remark-:
+
+==> I. Analyze & store logs
+* Locate and interpret system logs
+Remark-:
+
+==> J. Manage RHEL Networking
+* Configure basic IPv4 Networking
+* Configuring Network using Network Manager GUI
+* Configuring Network using Network Manager GUI
+Remark-:
+
+==> K. Install & update Linux Packages.
+* Manage Packages using RPM CLI tool
+* Manage package using YUM
+* Manage package using APT
+* Overview of source Code installation
+Remark-:
+
+==> L. Use Virtualized system
+* Perform virtualization KVM & libvirt
+* Create & manage a virtual machine.
