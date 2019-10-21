@@ -1,9 +1,13 @@
 # RHEL <br> (Red Hat Enterprise Linux )
 <br><br>
-<strong>YouTube Channel : https://www.youtube.com/channel/UCpFKJ2b-effMVKYOgAXyYFA <br>
-Facebook Channel -: https://www.facebook.com/lnwtutorial/<br>
-Website Page-: www.lnwtutorials.com<br>
-Email-: lnwtutorials@gmail.com </strong> <br>
+<strong>
+<em> About we are </em>:<br>
+YouTube Channel : https://goo.gl/afMM5h <br>
+Facebook Page -: https://www.facebook.com/lnwtutorial /<br>
+Web   -: www.lnwtutorials.com <br>
+email -: lnwtutorials@gmail.com  <br>
+Facebook -: https://www.facebook.com/lnwtutorials /<br> 
+</strong>
 
 # Full Red Hat Linux Server Topics, Tutorials and Study Matarial
 <strong>Part-1</strong>
