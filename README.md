@@ -1,5 +1,4 @@
-# rhel 
-<b>Red Hat Enterprise Linux </b> 
+# RHEL <br> (Red Hat Enterprise Linux )
 <br><br>
 <strong>YouTube Channel : https://www.youtube.com/channel/UCpFKJ2b-effMVKYOgAXyYFA <br>
 Facebook Channel -: https://www.facebook.com/lnwtutorial/<br>
