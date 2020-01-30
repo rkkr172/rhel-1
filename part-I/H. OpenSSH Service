@@ -1,0 +1,16 @@
+H. Configure and secure OpenSSH Service
+* secure command inse access on the remote pc
+* Key based ssh
+* Secure copy
+===========================================================
+
+## Q. [How to limits the ssh connection]
+<u>ANS.</u> 
+Edit file (/etc/security/limits.conf)
+    #ftp             hard    nproc           0
+    #@student        -       maxlogins       4
+    tester            -       maxlogins       1
+    
+** (NOTE: here "root" user not working for ristriction but rest other user is fine.) ** 
+(https://unix.stackexchange.com/questions/26170/sshd-config-maxsessions-parameter)
+(https://www.cyberciti.biz/faq/linux-unix-osx-bsd-ssh-multiplexing-to-speed-up-ssh-connections/)
