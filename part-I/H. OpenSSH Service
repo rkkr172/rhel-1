@@ -14,3 +14,4 @@ Edit file (/etc/security/limits.conf)
 ** (NOTE: here "root" user not working for ristriction but rest other user is fine.) ** 
 (https://unix.stackexchange.com/questions/26170/sshd-config-maxsessions-parameter)
 (https://www.cyberciti.biz/faq/linux-unix-osx-bsd-ssh-multiplexing-to-speed-up-ssh-connections/)
+
